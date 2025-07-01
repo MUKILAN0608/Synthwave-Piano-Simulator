@@ -1,7 +1,7 @@
 # 🎹 Synthwave Piano Simulator 🎶
 
 <p align="center">
-  A real-time, synthwave-inspired virtual piano built in <b>C</b> using <b>PortAudio</b> for audio synthesis and <b>SDL2</b> for animated GUI keys. Supports multiple waveforms, quantum-based note switching, delay effects, and a round-robin note scheduling system.
+  A real-time, synthwave-inspired virtual piano built in C using PortAudio for audio synthesis and SDL2 for animated GUI keys. Supports multiple waveforms, quantum-based note switching, delay effects, and a round-robin note scheduling system.
 </p>
 
 
@@ -120,48 +120,7 @@ synthwave_piano.exe
 
 We welcome contributions to make this synthwave piano even more awesome! Here's how you can contribute:
 
-### 🤝 How to Contribute
 
-1. **Fork the Repository**
-   ```bash
-   # Click the "Fork" button on GitHub or use GitHub CLI
-   gh repo fork MUKILAN0608/synthwave-piano-simulator
-   ```
-
-2. **Clone Your Fork**
-   ```bash
-   git clone https://github.com/MUKILAN0608/synthwave-piano-simulator.git
-   cd synthwave-piano-simulator
-   ```
-
-3. **Create a Feature Branch**
-   ```bash
-   git checkout -b feature/your-amazing-feature
-   # or
-   git checkout -b bugfix/fix-description
-   ```
-
-4. **Make Your Changes**
-   - Add new features, fix bugs, or improve documentation
-   - Test your changes thoroughly on both Linux and Windows
-   - Follow the existing code style and structure
-
-5. **Commit Your Changes**
-   ```bash
-   git add .
-   git commit -m "✨ Add amazing new feature: [brief description]"
-   ```
-
-6. **Push to Your Fork**
-   ```bash
-   git push origin feature/your-amazing-feature
-   ```
-
-7. **Create a Pull Request**
-   - Go to your fork on GitHub
-   - Click "New Pull Request"
-   - Add a clear title and description of your changes
-   - Reference any related issues
 
 ### 🎯 Contribution Ideas
 
