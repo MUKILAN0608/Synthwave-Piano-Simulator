@@ -4,7 +4,9 @@
   A real-time, synthwave-inspired virtual piano built in <b>C</b> using <b>PortAudio</b> for audio synthesis and <b>SDL2</b> for animated GUI keys. Supports multiple waveforms, quantum-based note switching, delay effects, and a round-robin note scheduling system.
 </p>
 
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="80%" alt="Synthwave Piano Demo">
+</p>
 
 ---
 
@@ -87,12 +89,12 @@ synthwave_piano.exe
 ## 📸 Demo
 
 *Synthwave-style animated piano GUI with real-time sound*
-![image](https://github.com/user-attachments/assets/a55e4a50-c46a-4764-b1cd-2fa262d84f5c)
-![image](https://github.com/user-attachments/assets/34673fdf-782b-454d-9e70-7e0dcbeb2e95)
-![image](https://github.com/user-attachments/assets/0d70b70f-944b-438d-a21f-201c746259db)
 
+![Console Interface](https://github.com/user-attachments/assets/a55e4a50-c46a-4764-b1cd-2fa262d84f5c)
 
+![Piano GUI](https://github.com/user-attachments/assets/34673fdf-782b-454d-9e70-7e0dcbeb2e95)
 
+![Waveform Selection](https://github.com/user-attachments/assets/0d70b70f-944b-438d-a21f-201c746259db)
 
 ---
 
@@ -119,7 +121,104 @@ synthwave_piano.exe
 
 ## 🚀 Contributing
 
-Pull requests and forks are welcome — feel free to extend with your effects, visualizations, or improvements!
+We welcome contributions to make this synthwave piano even more awesome! Here's how you can contribute:
+
+### 🤝 How to Contribute
+
+1. **Fork the Repository**
+   ```bash
+   # Click the "Fork" button on GitHub or use GitHub CLI
+   gh repo fork MUKILAN0608/synthwave-piano-simulator
+   ```
+
+2. **Clone Your Fork**
+   ```bash
+   git clone https://github.com/MUKILAN0608/synthwave-piano-simulator.git
+   cd synthwave-piano-simulator
+   ```
+
+3. **Create a Feature Branch**
+   ```bash
+   git checkout -b feature/your-amazing-feature
+   # or
+   git checkout -b bugfix/fix-description
+   ```
+
+4. **Make Your Changes**
+   - Add new features, fix bugs, or improve documentation
+   - Test your changes thoroughly on both Linux and Windows
+   - Follow the existing code style and structure
+
+5. **Commit Your Changes**
+   ```bash
+   git add .
+   git commit -m "✨ Add amazing new feature: [brief description]"
+   ```
+
+6. **Push to Your Fork**
+   ```bash
+   git push origin feature/your-amazing-feature
+   ```
+
+7. **Create a Pull Request**
+   - Go to your fork on GitHub
+   - Click "New Pull Request"
+   - Add a clear title and description of your changes
+   - Reference any related issues
+
+### 🎯 Contribution Ideas
+
+- **🎹 New Features:**
+  - Real-time keyboard input
+  - MIDI controller support
+  - Additional waveforms (FM synthesis, noise, etc.)
+  - Audio recording/export functionality
+  - Preset saving/loading system
+
+- **🎨 UI/UX Improvements:**
+  - Enhanced visual effects
+  - Customizable themes
+  - Responsive GUI scaling
+  - Visual waveform display
+
+- **🔧 Technical Enhancements:**
+  - Cross-platform compatibility improvements
+  - Performance optimizations
+  - Better error handling
+  - Memory leak fixes
+
+- **📚 Documentation:**
+  - Code comments and documentation
+  - Tutorial videos or GIFs
+  - Installation guides for different systems
+  - API documentation
+
+### 📋 Pull Request Guidelines
+
+- **Title Format:** Use descriptive titles with emojis (e.g., "🎵 Add triangle wave synthesis")
+- **Description:** Clearly explain what your PR does and why
+- **Testing:** Ensure your code compiles and runs on both Linux and Windows
+- **Code Style:** Maintain consistent formatting and naming conventions
+- **Small Commits:** Keep changes focused and atomic when possible
+
+### 🐛 Bug Reports
+
+Found a bug? Please open an issue with:
+- **System Info:** OS, compiler version, library versions
+- **Steps to Reproduce:** Clear step-by-step instructions
+- **Expected vs Actual:** What should happen vs what actually happens
+- **Logs/Screenshots:** Any error messages or visual issues
+
+### 💡 Feature Requests
+
+Have an idea? Open an issue with the `enhancement` label and describe:
+- **Use Case:** Why would this feature be useful?
+- **Implementation Ideas:** Any thoughts on how it could work?
+- **Examples:** Similar features in other software?
+
+---
+
+**Thank you for helping make Synthwave Piano Simulator even better! 🎶**
 
 ---
 
@@ -132,7 +231,7 @@ This project is released under the **MIT License**.
 ## 🙌 Author
 
 **A.M. Mukilan**  
-
+*AI & ML Engineer | Full-Stack Developer | Synthwave Tech Enthusiast*
 
 🔗 [GitHub Profile](https://github.com/MUKILAN0608)
 
@@ -140,7 +239,6 @@ This project is released under the **MIT License**.
 
 
 
----
 
 <p align="center">
   <b>🎵 Happy Coding & Music Making! 🎵</b>
