@@ -4,9 +4,7 @@
   A real-time, synthwave-inspired virtual piano built in <b>C</b> using <b>PortAudio</b> for audio synthesis and <b>SDL2</b> for animated GUI keys. Supports multiple waveforms, quantum-based note switching, delay effects, and a round-robin note scheduling system.
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="80%" alt="Synthwave Piano Demo">
-</p>
+
 
 ---
 
@@ -94,9 +92,7 @@ synthwave_piano.exe
 ![image](https://github.com/user-attachments/assets/0d70b70f-944b-438d-a21f-201c746259db)
 
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="80%">
-</p>
+
 
 ---
 
