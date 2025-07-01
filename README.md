@@ -1,8 +1,7 @@
 # 🎹 Synthwave Piano Simulator 🎶
 
-<p align="center">
+
   A real-time, synthwave-inspired virtual piano built in C using PortAudio for audio synthesis and SDL2 for animated GUI keys.                                                                                   Supports multiple waveforms, quantum-based note switching, delay effects, and a round-robin note scheduling system.
-</p>
 
 
 ---
